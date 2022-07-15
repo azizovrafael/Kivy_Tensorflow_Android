@@ -35,7 +35,11 @@ android.gradle_dependencies = 'org.tensorflow:tensorflow-lite:1.12.0','org.tenso
 requirements = python3,kivy,numpy,opencv
 
 android.arch = arm64-v8a, armeabi-v7a
+
 ```
+
+### Tensotflow lite model maker documentation
+<a href="https://www.tensorflow.org/lite/models/modify/model_maker/object_detection">  https://www.tensorflow.org/lite/models/modify/model_maker/object_detection </a>
 
 ### if you have a question contact
 #### <a style="color: 337DFF;" >azizov.rafael@birainy.com</a>
